@@ -1,0 +1,54 @@
+@import url('http:fonts.googleapis.com/css/family=Quicksand:400,500&subset=latin-ext');
+body {
+    padding: 100px;
+    background-image: url(image/sololeveling.jpg);
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+.main {
+    width: auto;
+    height: 80vh;
+    background-color: #FAFAFA;
+    margin: 0 auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    
+    border: 1px solid #EEEEEE'
+}
+.img {
+    background-image: url(image/Shafwan\ Almer\ Varrel.jpg);
+    background-color: #EAEAEA;
+    background-size: cover;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid #EEEEEE;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color: #6944FF;
+}
+.text {
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color: #324E63;
+}
+hr {
+    width: 70%;
+    margin-bottom: 2rem;
+  }
+p {
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 450px;
+    height: auto;
+    color: #324E63;
+}
+a{
+    text-decoration: none;
+}

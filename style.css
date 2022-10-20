@@ -1,0 +1,37 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+body .bg {
+  background-color: white;
+  color: black;
+  height: 615px;
+  margin: 15px 150px;
+  width: auto;
+  text-align: center;
+  border-radius: 20px;
+}
+
+body .bg img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border-style: solid;
+  margin-bottom: 20px;
+  object-fit: cover;
+}
+
+body .bg hr {
+  width: 35%;
+  border-style: solid;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+body .bg span {
+  font-size: 25px;
+  font-weight: bolder;
+}
+a {
+  text-decoration: none;
+}
