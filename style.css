@@ -7,10 +7,10 @@ body .bg {
   color: black;
   height: 85vh;
   margin: auto;
-  /* margin: 15px 150px; */
   width: 80%;
   text-align: center;
   border-radius: 20px;
+  padding-bottom: 3em;
 }
 
 body .bg img {

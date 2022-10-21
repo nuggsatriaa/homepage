@@ -3,7 +3,7 @@ body {
     padding: 100px;
     background-image: url(image/sololeveling.jpg);
     text-align: center;
-    font-family: 'Quicksand', sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 .main {
     width: auto;
@@ -12,7 +12,6 @@ body {
     margin: 0 auto;
     padding-top: 20px;
     border-radius: 10px;
-    
     border: 1px solid #EEEEEE'
 }
 .img {
@@ -29,7 +28,7 @@ h1 {
     text-align: center;
     font-size: 30px;
     margin: 0;
-    font-weight: bold;
+    font-weight: bolder;
     color: #6944FF;
 }
 .text {
